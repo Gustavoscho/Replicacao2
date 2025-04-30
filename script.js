@@ -1,7 +1,7 @@
 function criarInput() {
     var novoInput = document.createElement("input");
     novoInput.type = "text";
-    novoInput.placeholder = "Digite algo...";
-    novoInput.classList.add("inputs");
+    novoInput.placeholder = "Próximo ponto";
+    novoInput.classList.add("proxponto");
     document.getElementById("container").appendChild(novoInput);
 }

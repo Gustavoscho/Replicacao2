@@ -11,7 +11,7 @@ body{
     max-width: 450px;
     border-radius: 20px;
     padding-top: 5px;
-    adsds
+    padding-bottom: 10px;
 }
 
 .inputs{
@@ -20,6 +20,7 @@ body{
     width:400px;
     border-radius: 10px;
     margin-bottom: 25px;
+    border-color: rgb(70, 69, 69);
 }
 
 span{
@@ -28,4 +29,22 @@ span{
 
 #sub{
     font-weight: bold;
+}
+
+.proxponto{
+    font-size:12pt;
+    height:60px;
+    width:400px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border-color: rgb(58, 67, 192);
+}
+
+#pontofinal{
+    font-size:12pt;
+    height:60px;
+    width:400px;
+    border-radius: 10px;
+    margin-top: 25px;
+    border-color: rgb(70, 69, 69);
 }
